@@ -167,17 +167,12 @@ cloud-webapp/
 ## Author
 AMHIRAQ
 GitHub: https://github.com/AMHIRAQ/cloud-webapp
-Screenshots à prendre maintenant
+<img width="1918" height="823" alt="{7FAE7A80-2E29-46AE-A5DB-A65F4199B420}" src="https://github.com/user-attachments/assets/912c2f78-4ced-4318-b77c-847e99131827" />
+<img width="1137" height="716" alt="{890D702E-FF5E-4E2B-A8D7-6D4D030BD47D}" src="https://github.com/user-attachments/assets/713fe104-bd04-4be2-87da-3f530e953b47" />
+<img width="1744" height="280" alt="{7F9E32BF-08C3-4364-9054-0CC225F5C2B5}" src="https://github.com/user-attachments/assets/a654cf5e-4b38-40d0-a6ae-753943fe5a99" />
+<img width="1540" height="398" alt="{B606E6F8-5FB3-41B4-BAA0-2B2C1243C02B}" src="https://github.com/user-attachments/assets/00f5905f-c6dd-49b5-9ed9-36401d78b227" />
+<img width="936" height="79" alt="{6F14BA43-A164-4819-936B-DBB00432D3CE}" src="https://github.com/user-attachments/assets/4eef32c2-046b-47f9-8321-06b8aa3a75ac" />
+<img width="1920" height="643" alt="{74B19CD7-028C-4E32-BC02-C1CED712FFC5}" src="https://github.com/user-attachments/assets/7857923a-1242-4802-beca-64f75066102b" />
+<img width="1850" height="200" alt="{1DA01E67-5D8B-4797-8FC3-1739A4D54320}" src="https://github.com/user-attachments/assets/c3ed6b68-6faa-48c3-925c-d04680d816c5" />
 
-Voici exactement quelles captures faire et comment les nommer :
-
-01-ec2-instance.png — Dans la console AWS, la page EC2 qui montre ton instance running avec l'IP 54.152.121.226.
-
-02-ssh-connection.png — Ton terminal WSL avec le message Welcome to Ubuntu 26.04 après connexion SSH.
-
-03-app-running-browser.png — La capture que tu as déjà prise : le navigateur sur 54.152.121.226 avec "Mes notes (app cloud)".
-
-04-note-added.png — Tape une note dans l'app et prends une capture avec la note affichée dans la liste.
-
-05-persistence-test.png — Terminal montrant sudo systemctl restart webapp puis curl http://54.152.121.226/health → OK.
 
